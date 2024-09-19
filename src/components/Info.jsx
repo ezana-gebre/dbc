@@ -1,4 +1,4 @@
-import profilePic from '../assets/profile-picc.jpg';
+import profilePic from '../assets/profile-pic.jpg';
 import emailIcon from '../assets/email-icon.png';
 import linkedinIcon from '../assets/linkedin-icon.png';
 
@@ -6,7 +6,7 @@ export default function Info() {
   return (
     <section className='info'>
       <div className='info--profile-pic'>
-        <img src={profilePicc} alt='Ezana Gebre' />
+        <img src={profilePic} alt='Ezana Gebre' />
       </div>
       <div className='info--basic-info'>
         <h1 className='name'>Ezana Gebre</h1>
