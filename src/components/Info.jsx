@@ -6,13 +6,13 @@ export default function Info() {
   return (
     <section className='info'>
       <div className='info--profile-pic'>
-        <img src={profilePic} alt='Tiffany Chan' />
+        <img src={profilePic} alt='Ezana Gebre' />
       </div>
       <div className='info--basic-info'>
-        <h1 className='name'>Tiffany Chan</h1>
+        <h1 className='name'>Ezana Gebre</h1>
         <h3 className='title'>Frontend Developer</h3>
         <p className='website'>
-          <a hef='#'>tiffanychan.website</a>
+          <a hef='#'>ezana-gebre-pw</a>
         </p>
       </div>
       <div className='info--action'>
