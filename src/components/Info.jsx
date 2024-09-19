@@ -12,7 +12,7 @@ export default function Info() {
         <h1 className='name'>Ezana Gebre</h1>
         <h3 className='title'>Frontend Developer</h3>
         <p className='website'>
-          <a hef='#'>ezana-gebre-pw</a>
+          <a hef='www.ezana-gebree.netlify.app'>Ezana.Gebre</a>
         </p>
       </div>
       <div className='info--action'>
