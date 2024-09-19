@@ -3,9 +3,7 @@ export default function Interests() {
     <div className='interests'>
       <h2 className='section-title'>Interests</h2>
       <p className='section-content'>
-        Food enthusiast. Reader. Animal lover. I like to explore and learn new
-        things. I create and code with passion. I think and reflect with
-        curiosity.
+        Curious and adventurous. I like video editing, front-end development, and exploring new ideas with an open mind.
       </p>
     </div>
   );
