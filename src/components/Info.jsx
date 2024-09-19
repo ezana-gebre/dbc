@@ -25,7 +25,7 @@ export default function Info() {
         </button>
           
         <button className='linkedin-btn'>
-           <a href="www.linkedin.com/in/ezana-gebre" target="_blank" className="linkedin"  style="text-decoration: none;">
+           <a href="www.linkedin.com/in/ezana-gebre" target="_blank" className="linkedin-btn"  style="text-decoration: none;">
           <img src={linkedinIcon} alt='LinkedIn icon' />
           LinkedIn
              </a>
