@@ -18,7 +18,7 @@ export default function Info() {
       <div className='info--action'>
         
         <button className='email-btn'>
-          <a href="mailto:mbenemilitao@gmail.com" target="_blank" className="email">
+          <a href="mailto:hadushezana@gmail.com" target="_blank" className="email"  style="text-decoration: none;>
           <img src={emailIcon} alt='Email icon' />
           Email
             </a>
