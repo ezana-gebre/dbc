@@ -16,10 +16,12 @@ export default function Info() {
         </p>
       </div>
       <div className='info--action'>
+        <a href="mailto:mbenemilitao@gmail.com" target="_blank" className="email">
         <button className='email-btn'>
           <img src={emailIcon} alt='Email icon' />
           Email
         </button>
+          </a>
         <button className='linkedin-btn'>
           <img src={linkedinIcon} alt='LinkedIn icon' />
           LinkedIn
