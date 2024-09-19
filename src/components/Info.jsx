@@ -18,17 +18,17 @@ export default function Info() {
       <div className='info--action'>
         
         <button className='email-btn'>
-          <a href="mailto:hadushezana@gmail.com" target="_blank" className="email"  style="text-decoration: none;">
+          <a href="mailto:hadushezana@gmail.com" target="_blank" className="email" >
           <img src={emailIcon} alt='Email icon' />
           Email
             </a>
         </button>
           
         <button className='linkedin-btn'>
-           <a href="www.linkedin.com/in/ezana-gebre" target="_blank" className="linkedin-btn"  style="text-decoration: none;">
+           
           <img src={linkedinIcon} alt='LinkedIn icon' />
           LinkedIn
-             </a>
+             
         </button>
       </div>
     </section>
